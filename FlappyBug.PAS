@@ -32,7 +32,7 @@ repeat
 if (fp = d) then up;
 d:=d+1;
 delay(1);
-until (d = 17);end;end;
+until (d = 17);end;
 
 function h1 (a,c:integer):integer;
 var b,d:integer;
